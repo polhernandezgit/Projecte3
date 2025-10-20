@@ -122,4 +122,7 @@ Aquest projecte forma part de la sèrie **EverPia**, un entorn educatiu i de sim
 ## Carpetes
 
 - [Tasques](./Tasques)
+- [Productes](./Productes)
+- [KANBAN](./KANBAN)
+
 
