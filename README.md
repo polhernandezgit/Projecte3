@@ -119,4 +119,6 @@ Ara és el vostre torn d’agafar **l’extintor… i el teclat.**
 Aquest projecte forma part de la sèrie **EverPia**, un entorn educatiu i de simulació IT.  
 Ús permès amb finalitats formatives i no comercials.
 
+## Carpetes.
+
 
