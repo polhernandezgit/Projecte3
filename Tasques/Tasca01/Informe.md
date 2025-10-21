@@ -1,4 +1,4 @@
-![Captura 1]()
+![Captura 1](img./Captura1.png)
 
 # T01: Gestor de contrasenyes
 Pol Hernández
@@ -50,7 +50,7 @@ Un gestor de contrasenyes sol ser crucial per reduir riscos de seguretat per dif
 
 **KeePassX / KeePassXC (Alternativa Offline / Escriptori):** Analitzeu l'emmagatzematge local de l'arxiu (KDBX), la independència del núvol, el model open source i la portabilitat de l'arxiu.
 
-
+![Captura 2](img./Captura2.png)
 
 ---
 
