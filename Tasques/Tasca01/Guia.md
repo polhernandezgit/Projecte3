@@ -31,47 +31,47 @@ seva longitud, incluir mayúsculas, símbols, etc i donant a generar contrasenye
 ## 3. Exemples d'Ús i Emplenament Automàtic:
 Ara començarem amb la creació de l’empalament automatic. Per fer això el primer és anar a la pestanya principal i apretar a “+Element nou”.
 
-![Captura 1](img./c9.png)
+![Captura 1](img./c21.png)
 
 Ens sortirà aquest menú, on aurem de ficar el nostre mail lloc web, per exemple gmail.com i nom d’element, per exemple gmail empresa i donem a guardar.
 
-![Captura 1](img./c.png)
+![Captura 1](img./c9.png)
 
 I ens sortirà aquest altre menú que no haurem de fer res.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c10.png)
 
 El que farem ara és anar a la chrome store per instal·lar l'extensió de Bitwarden, però per això ho haurem de fer per un altre correu perquè amb el de escola ens demana permisos.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c11.png)
 
 Quan s’hagi instal·lat ens surt aquest menú, que haurem d’iniciar sessió.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c12.png)
 
 Un cop fet això, hem d'iniciar sessió en qualsevol pàgina web com per exemple github.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c13.png)
 
 En el moment en que iniciem sessió ens sortirà aquesta alerta que permet guardar la contrasenya a Bitwarden.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c14.png)
 
 Després iniciem sessió en un altre lloc com per exemple el gmail. Quan arribem a l’apartat d’iniciar sessió ens sortirà l'opció de poder vincular el compte de Bitwarden.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c15.png)
 
 Ara tornem a anar al github per iniciar sessió, per en aquest cas haurem de donar a on diu inici de sessió nou.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c16.png)
 
 Ens sortirà aquest menú que haurem de ficar les dades de Bitwarden i donem a guardar.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c17.png)
 
 ara quan tornem al menú d’inici de sessió podrem vincular el nom d’usuari i la contrasenya del Bitwarden.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c18.png)
 
 ## 4. Gestió de Còpies de Seguretat (Backup):
 Ara faré una explicació de com fer una copia de seguretat de l’arxiu de contrasenyes. Per això, en l’aplicació de bitwarden anirem a la part d’eines i a exporta la caixa forta.
