@@ -1,4 +1,4 @@
-T02: Gestió emmagatzematge# 
+# T02: Gestió emmagatzematge 
 La informació és un dels béns més valuosos per qualsevol organització. A EverPia ens esforcem per tal que els nostres clients tinguin la seguretat que les seves dades estan protegides i segures. Per aquest motiu i dins de la vostra formació dins el departament de seguretat informàtica, és rebre una formació bàsica sobre el tema, per tal de poder afrontar els reptes que els nostres clients ens proposen.
 Un bufet d'advocats amb dades altament sensibles, ens ha contractat per revisar i optimitzar el seu sistema d'emmagatzematge de dades, ja que l'actual és vulnerable a fallades i pèrdua d'informació.
 Abans d'accedir a les seves instal·lacions i dissenyar la solució física, necessitem garantir que tot l'equip tècnic tingui un domini absolut dels fonaments teòrics de la gestió d'emmagatzematge des de la perspectiva de la seguretat i la protecció de la informació.
