@@ -9,4 +9,4 @@ Tecnologies de Redundància (RAID): Entendre els nivells clau de RAID i com s'ut
 Models d’emmagatzematge: Descrivint les característiques, avantatges i desavantatges dels principals models d'emmagatzematge en xarxa: DAS (Direct Attached Storage), NAS (Network Attached Storage) i SAN (Storage Area Network), avaluant quin model ofereix el millor equilibri entre rendiment, cost i seguretat de la informació.
 Un cop hagi finalitzat la formació, hauràs de respondre un qüestionari per tal d’avaluar el teu grau d’assoliment. Supera’l, el teu progrés dins EverPia en depèn!
 
-![Captura 1](img./c1.png)
+![Captura 1](img./)
