@@ -51,9 +51,7 @@ Quan haguem escrit el necessari, implementarem les dos OU per la comanda ldapadd
 
 ![Captura 1](img./c14.png)
 
-![Captura 1](img./c15.png)
-
-![Captura 1](img./c16.png)
+![Captura 1](img./c24.png)
 
 I amb ldapsearch podem veure que estiguin ben implementades.
 
