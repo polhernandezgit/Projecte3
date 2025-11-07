@@ -51,51 +51,52 @@ Quan haguem escrit el necessari, implementarem les dos OU per la comanda ldapadd
 
 ![Captura 1](img./c14.png)
 
-![Captura 1](img./c24.png)
+![Captura 1](img./c15.png)
 
 I amb ldapsearch podem veure que estiguin ben implementades.
 
-![Captura 1](img./c17.png)
+![Captura 1](img./c16.png)
 
 ## 3.2. Gestió i Administració (LAM)
 Ara començarem amb la gestió i administració del servei LDAP.
 Primer haurem d’instal·lar-lo.
 
-![Captura 1](img./c18.png)
+![Captura 1](img./c17.png)
 
 Quan s’hagi instal·lat, haurem de copiar la ip amb ip a
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c18.png)
 
 Després hem de anar a un navegador i buscar la ip més /lam/templates/login.php i ens sortirà aquest menú. El que hem de fer aquí és anar a on diu LAM configuration.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c19.png)
 
 Després a edit server profiles.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c20.png)
 
 I haurem de ficar la contrasenya, que és lam.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c21.png)
 
 Un cop a dins, en la secció server settings ficarem el que surt en la captura.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c22.png)
 
 En la secció tool settings ficarem això.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c23.png)
 
 I en la segona pestanya de account types, que esta a la part superior i en la secció active account types fiquem el que surt en la captura.
 
-![Captura 1](img./c1.png)
+![Captura 1](img./c24.png)
 
 I aplicarem el anvis en save a la part inferior.
-
-![Captura 1](img./c1.png)
-
 Després haurem de anar a la pestanya d’inici i ficar la contrasenya que tinguem del LDAP.
+
+![Captura 1](img./c25.png)
+
+
 
 
 
