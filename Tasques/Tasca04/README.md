@@ -155,60 +155,60 @@ La versió que elegim dona igual.
 
 ![Captura 1](img./c42.png)
 
-![Captura 1](img./c43.png)
-
-![Captura 1](img./c44.png)
-
-Aqui fiquem la contrasenya del lam.
-
 ![Captura 1](img./c45.png)
-
-Amb aquesta comanda veurem si el client es connecta amb el servidor.
 
 ![Captura 1](img./c46.png)
 
-Ara entrarem a l’arxiu següent.
+Aqui fiquem la contrasenya del lam.
 
 ![Captura 1](img./c47.png)
 
-I ho configurarem com en la captura.
+Amb aquesta comanda veurem si el client es connecta amb el servidor.
 
 ![Captura 1](img./c48.png)
 
-Ara entrem en aquest fitxer per per eliminar la línea marcada.
+Ara entrarem a l’arxiu següent.
 
 ![Captura 1](img./c49.png)
 
+I ho configurarem com en la captura.
+
 ![Captura 1](img./c50.png)
 
-Després entrem en aquest fitxer i afegim la línea marcada.
+Ara entrem en aquest fitxer per per eliminar la línea marcada.
 
 ![Captura 1](img./c51.png)
 
 ![Captura 1](img./c52.png)
 
-Resetejem el nsdc per guardar bé els canvis.
+Després entrem en aquest fitxer i afegim la línea marcada.
 
 ![Captura 1](img./c53.png)
 
-Ara mirem si els usuaris es veuen en el LDAP.
-
 ![Captura 1](img./c54.png)
 
-Després entrarem en aquest altre fitxer i afegim la línea marcada.
+Resetejem el nsdc per guardar bé els canvis.
 
 ![Captura 1](img./c55.png)
 
+Ara mirem si els usuaris es veuen en el LDAP.
+
 ![Captura 1](img./c56.png)
 
-Ara reiniciarem la màquina per iniciar sessió per on diu ¿No está en la lista?.
+Després entrarem en aquest altre fitxer i afegim la línea marcada.
 
 ![Captura 1](img./c57.png)
 
+![Captura 1](img./c58.png)
+
+Ara reiniciarem la màquina per iniciar sessió per on diu ¿No está en la lista?.
+
+![Captura 1](img./c59.png)
+
 Aqui posem de nom d’usuari manager01 i posem la contrasenya del LAM.
 
-![Captura 1](img./c58.png)
+![Captura 1](img./c60.png)
 
 Si hem pogut iniciar sessió, tornem a entrar a la terminal i comprovem que l’usuari estigu bé.
 
-![Captura 1](img./c59.png)
+![Captura 1](img./c61.png)
