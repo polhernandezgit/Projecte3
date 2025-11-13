@@ -189,23 +189,25 @@ Després entrem en aquest fitxer i afegim la línea marcada.
 
 Resetejem el nsdc per guardar bé els canvis.
 
-![Captura 1](img./c57.png)
+![Captura 1](img./restard.png)
 
 Ara mirem si els usuaris es veuen en el LDAP.
 
-![Captura 1](img./c61.png)
+![Captura 1](img./ldap.png)
 
 Després entrarem en aquest altre fitxer i afegim la primer línea de la captura.
 
-![Captura 1](img./c55.png)
+![Captura 1](img./comanda.png)
+
+![Captura 1](img./fitxer.png)
 
 Ara reiniciarem la màquina per iniciar sessió per on diu ¿No está en la lista?.
 
-![Captura 1](img./c58.png)
+![Captura 1](img./usuari.png)
 
 Aqui posem de nom d’usuari manager01 i posem la contrasenya del LAM.
 
-![Captura 1](img./c60.png)
+![Captura 1](img./manager.png)
 
 Si hem pogut iniciar sessió, tornem a entrar a la terminal i comprovem que l’usuari estigu bé.
 
