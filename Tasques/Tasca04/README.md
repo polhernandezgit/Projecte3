@@ -209,4 +209,4 @@ Aqui posem de nom d’usuari manager01 i posem la contrasenya del LAM.
 
 Si hem pogut iniciar sessió, tornem a entrar a la terminal i comprovem que l’usuari estigu bé.
 
-![Captura 1](img./c61.png)
+![Captura 1](img./id.png)
