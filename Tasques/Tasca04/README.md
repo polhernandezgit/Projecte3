@@ -96,8 +96,119 @@ Després haurem de anar a la pestanya d’inici i ficar la contrasenya que tingu
 
 ![Captura 1](img./c25.png)
 
+Un cop hem iniciat sessió, anem a la secció de grupos per crear els grups.
 
+![Captura 1](img./c26.png)
 
+Crearem els dos grups de tech i manager.
 
+![Captura 1](img./c27.png)
 
+![Captura 1](img./c28.png)
 
+Ara crearem usuaris. Donem a nuevo usuario.
+
+![Captura 1](img./c29.png)
+
+El primer es dirà tech01 i anem a la secció de Unix.
+
+![Captura 1](img./c30.png)
+
+I ficarem el surt en la captura.
+
+![Captura 1](img./c31.png)
+
+I el mateix però amb manager01.
+
+![Captura 1](img./c32.png)
+
+![Captura 1](img./c33.png)
+
+## 4. Integració de Client (Client Ubuntu Desktop)
+En la màquina client ficarem la segona interficie en host only.
+
+![Captura 1](img./c34.png)
+
+Un cop a dins, anem a la terminal i canviem el nom de domini.
+
+![Captura 1](img./c35.png)
+
+![Captura 1](img./c36.png)
+
+Utilitzem la comanda dig per veure si els noms funcionen bé.
+
+![Captura 1](img./c37.png)
+
+Ara instal·larem el ldap.
+
+![Captura 1](img./c38.png)
+
+I en les configuracions de paquets fiquem el que surt en les captures.
+
+![Captura 1](img./c39.png)
+
+![Captura 1](img./c40.png)
+
+La versió que elegim dona igual.
+
+![Captura 1](img./c41.png)
+
+![Captura 1](img./c42.png)
+
+![Captura 1](img./c43.png)
+
+![Captura 1](img./c44.png)
+
+Aqui fiquem la contrasenya del lam.
+
+![Captura 1](img./c45.png)
+
+Amb aquesta comanda veurem si el client es connecta amb el servidor.
+
+![Captura 1](img./c46.png)
+
+Ara entrarem a l’arxiu següent.
+
+![Captura 1](img./c47.png)
+
+I ho configurarem com en la captura.
+
+![Captura 1](img./c48.png)
+
+Ara entrem en aquest fitxer per per eliminar la línea marcada.
+
+![Captura 1](img./c49.png)
+
+![Captura 1](img./c50.png)
+
+Després entrem en aquest fitxer i afegim la línea marcada.
+
+![Captura 1](img./c51.png)
+
+![Captura 1](img./c52.png)
+
+Resetejem el nsdc per guardar bé els canvis.
+
+![Captura 1](img./c53.png)
+
+Ara mirem si els usuaris es veuen en el LDAP.
+
+![Captura 1](img./c54.png)
+
+Després entrarem en aquest altre fitxer i afegim la línea marcada.
+
+![Captura 1](img./c55.png)
+
+![Captura 1](img./c56.png)
+
+Ara reiniciarem la màquina per iniciar sessió per on diu ¿No está en la lista?.
+
+![Captura 1](img./c57.png)
+
+Aqui posem de nom d’usuari manager01 i posem la contrasenya del LAM.
+
+![Captura 1](img./c58.png)
+
+Si hem pogut iniciar sessió, tornem a entrar a la terminal i comprovem que l’usuari estigu bé.
+
+![Captura 1](img./c59.png)
