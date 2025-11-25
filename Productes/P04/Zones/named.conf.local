@@ -1,1 +1,30 @@
+//
+// Do any local configuration here
+//
 
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+zone "digicore-13.test" {
+        type master;
+        file "/etc/bind/zones/db.digicore-13.test";
+	allow-transfer {192.168.4.19;};
+};
+
+zone "4.168.192.in-addr.arpa" {
+         type master;
+         file "/etc/bind/zones/db.192.168.4";
+};
+
+zone "digicore-19.test" {
+	type slave;
+	file "digicore-19.test";
+	masters {192.168.4.19;};
+};
+
+zone "digicore-26.test" {
+	type slave;
+	file "digicore-26.test";
+	masters {192.168.4.26;};
+};
